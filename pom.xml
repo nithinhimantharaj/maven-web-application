@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.43.210:9980/nithin/repository/facebook-release/</url>
+	      <name>Nithin Himantharaj Releases Nexus Repository</name>
+	      <url>http://51.20.94.163:8081/nithin/repository/Citibank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.43.210:9980/nithin/repository/facebook-snapshot/</url>
+	      <name>Nithin Himantharaj Snapshot Nexus Repository </name>
+	      <url>http://51.20.94.163:8081/nithin/repository/Citibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
